@@ -22,4 +22,4 @@
 - ```for``` loops
 - ```while``` loops
 
-![Control Flow Graph]('img/war_card_game_diagram.png')
+![Control Flow Graph](img/war_card_game_diagram.png)
