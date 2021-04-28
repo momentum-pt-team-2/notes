@@ -47,9 +47,7 @@ nutmeg = Pet("Nutmeg", "dog", "stubborn", "chonky", "fuzzy")
 
 
 ---
-### CRC Model
-- Class
-- Responsibilities
-- Collaborators
+
+The `__str__()` method is also built in. It gets called every time Python has to show a user-readable representation of an object, as with `print`. You can customize the string method to generate the text representation of your object that you want. In this example, the string method returns the name and species of the pet, "Nutmeg the dog."
 
 --- 
