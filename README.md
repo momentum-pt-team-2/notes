@@ -4,3 +4,4 @@
 2. [Introduction to Python](intro-python.md)
 3. [Control Flow](control_flow.md)
 4. [Object Oriented Programming in Python](python-object-oriented.md)
+5. [Blackjack Game Diagram](img/blackjack_diagram.png)
