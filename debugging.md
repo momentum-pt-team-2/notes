@@ -2,7 +2,7 @@
 
 ---
 
-# [fit] `breakpoint()` is like a pause button in your Python code. 
+# [fit] `breakpoint()` is like a pause button in your Python code. AKA `pdb.set_trace()`
 
 ---
 
