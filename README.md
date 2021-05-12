@@ -7,3 +7,4 @@
 5. [Blackjack Game Diagram](img/blackjack_diagram.png)
 6. [Debugging](debugging.md)
 7. [Intro to Django](intro_django.md)
+8. [Getting Started With Django](django-getting-started.md)
