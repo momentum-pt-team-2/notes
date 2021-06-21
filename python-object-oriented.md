@@ -17,10 +17,12 @@ April 27, 2021
 - Responsibilities
 - Collaborators
 
+[Explanation](http://www.agilemodeling.com/artifacts/crcModel.htm)
 --- 
 
 ### Classes in Python
- 
+At a minimum, you will usually write custom `__init__` and `__str__` methods for your classes. If you don't write them, Python will default to the built-in methods my the same name. 
+
 ```py 
 class Pet:
     def __init__(self, name, species):
