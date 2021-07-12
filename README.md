@@ -8,5 +8,9 @@
 6. [Python Lists and Dictionaries](python-lists-dicts.md)
 7. [Blackjack Game Diagram](img/blackjack_diagram.png)
 8. [Debugging](debugging.md)
-9. [Intro to Django](intro_django.md)
-10. [Getting Started With Django](django-getting-started.md)
+9. [Python Virtual Environments](python-virtual-environments.md)
+10. [Intro to Django](intro_django.md)
+11. [Getting Started With Django](django-getting-started.md)
+12. [CSS Layout](css-layout.md)
+13. [Responsive CSS](css-responsive.md)
+
