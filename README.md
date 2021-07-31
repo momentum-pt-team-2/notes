@@ -13,4 +13,6 @@
 11. [Getting Started With Django](django-getting-started.md)
 12. [CSS Layout](css-layout.md)
 13. [Responsive CSS](css-responsive.md)
-
+14. [Intro to JS](intro-js.md)
+15. [JS Objects](js-objects.md)
+16. [JS Arrays](js-arrays.md)
